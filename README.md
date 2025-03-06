@@ -1,7 +1,7 @@
 
 ### Hi, I'm Smirkyea 👋
 ---
-I'm **self-taught student, Minecraft technician and Developer** from **Czech Republic**.
+I'm **self-taught Minecraft technician and Developer** from **Czech Republic**.
 
 ## My projects ✨
 ---
