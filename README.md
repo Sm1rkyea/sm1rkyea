@@ -11,6 +11,6 @@ I'm **self-taught student, Minecraft technician and Developer** from **Czech Rep
 * Json files for resourcepack that we're using on our server.
 
 ## My experience ✨
--
+--
 ```[Jul 2022 - Nov 2024]``` Owner of Czech Minecraft server KukackaCZ Network.<br/>
 ```[Nov 2024 - Present]``` Owner of Czech Minecraft server Hollow-Games.cz.
