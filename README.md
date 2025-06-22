@@ -1,16 +1,21 @@
 
 # Hi, I'm Smirkyea 👋
----
+
 I'm **self-taught Minecraft technician and Developer** from **Czech Republic**.
 
-## My projects ✨
----
-### ⚡ [Hollow-Games.cz](https://www.google.com)
-* Custom easy-designed front-end website [changelog.hollow-games.cz](https://changelog.hollow-games.cz).
-* Custom Minecraft BukkitAPI plugins and yaml configurations edits.
-* Json files for resourcepack that we're using on our server.
+## What do I work with? ✨
+
+### ⚡ Next.js
+*  A framework for the popular JavaScript library React.js.
+*  Provides server-side rendering and static site generation out of the box.
+*  Enables faster development with built-in routing and API support.
+
+### ⚡ TailwindCSS
+*  A utility-first CSS framework for rapid UI/UX design using class-based styling.
+*  Encourages consistent design with customizable, reusable utility classes.
+*  Offers responsive design and dark mode support with minimal effort.
 
 ## My experience ✨
----
-```[Jul 2022 - Nov 2024]``` Owner of Czech Minecraft server KukackaCZ Network.<br/>
-```[Nov 2024 - Present]``` Owner of Czech Minecraft server Hollow-Games.cz.
+
+```[Jul 2022 - Nov 2024]``` Founder of Czech Minecraft server KukackaCZ Network.<br/>
+```[Nov 2024 - Present]``` Founder of Czech Minecraft server Hollow-Games.cz.
