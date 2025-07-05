@@ -18,4 +18,4 @@ I'm **self-taught Minecraft technician and Developer** from **Czech Republic**.
 ## My experience ✨
 
 ```[Jul 2022 - Nov 2024]``` Founder of Czech Minecraft server KukackaCZ Network.<br/>
-```[Nov 2024 - Present]``` Founder of Czech Minecraft server Hollow-Games.cz.
+```[Nov 2024 - July 2025]``` Founder of Czech Minecraft server Hollow-Games.cz.
