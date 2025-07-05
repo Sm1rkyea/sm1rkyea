@@ -10,7 +10,7 @@ I'm **Website Developer and self-taught Minecraft technician** from **Czech Repu
 *  Provides server-side rendering and static site generation out of the box.
 *  Enables faster development with built-in routing and API support.
 
-### ⚡ TailwindCSS
+### 🎗️ TailwindCSS
 *  A utility-first CSS framework for rapid UI/UX design using class-based styling.
 *  Encourages consistent design with customizable, reusable utility classes.
 *  Offers responsive design and dark mode support with minimal effort.
