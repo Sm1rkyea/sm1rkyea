@@ -1,7 +1,7 @@
 
 # Hi, I'm Smirkyea 👋
 
-I'm **self-taught Minecraft technician and Developer** from **Czech Republic**.
+I'm **Website Developer and self-taught Minecraft technician** from **Czech Republic**.
 
 ## What do I work with? ✨
 
@@ -17,5 +17,5 @@ I'm **self-taught Minecraft technician and Developer** from **Czech Republic**.
 
 ## My experience ✨
 
-```[Jul 2022 - Nov 2024]``` Founder of Czech Minecraft server KukackaCZ Network.<br/>
+```[July 2022 - Nov 2024]``` Founder of Czech Minecraft server KukackaCZ Network.<br/>
 ```[Nov 2024 - July 2025]``` Founder of Czech Minecraft server Hollow-Games.cz.
