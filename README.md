@@ -18,5 +18,5 @@ I'm **Website Developer and self-taught Minecraft technician** from **Czech Repu
 ## My experience ✨
 
 ```[July 2022 - Nov 2024]``` Founder of Czech Minecraft server KukackaCZ Network.<br/>
-```[Nov 2024 - July 2025]``` Founder of Czech Minecraft server Hollow-Games.cz.
+```[Nov 2024 - July 2025]``` Founder of Czech Minecraft server Hollow-Games.cz.<br/>
 ```[July 2025 - Present]``` Website Developer on biggest Minecraft server in Czechoslovakia, Survival-Games.cz.
