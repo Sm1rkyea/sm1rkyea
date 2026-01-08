@@ -28,4 +28,4 @@ I'm **Frontend (Website) Engineer** from **Czech Republic**.
 
 ## My experience
 
-```[July 2025 - October 2025]``` Website Developer on the biggest Minecraft server in Czechoslovakia, Survival-Games.cz.
+```[July 2025 - October 2025]``` Website Developer on the biggest Minecraft server in Czechia, Survival-Games.cz.
