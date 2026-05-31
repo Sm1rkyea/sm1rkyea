@@ -1,5 +1,5 @@
 # Hi, I'm Smirkyea 👋
-I'm **Frontend (Website) Engineer** from the **Czech Republic**.
+I'm **Frontend (Website) Engineer**.
 
 ## Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23EC5990.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sm1rkyea) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smirkyea-dev-7693b439b/) [![email](https://img.shields.io/badge/eMAIL-%23CB3837.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@smirkyea.eu)
