@@ -15,7 +15,7 @@
   I build fast, clean and modern web interfaces.
   Currently expanding my skills into backend development.
 </p>
-<br/>
+
 <h3 align="left">Tech Stack</h3>
 
 <p align="left">
@@ -33,7 +33,7 @@
   <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40" />&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40" />
 </p>
-<br/>
+
 <h3 align="left">Experience</h3>
 
 <ul>
