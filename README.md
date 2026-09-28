@@ -1,11 +1,46 @@
-# Hi, I'm Smirkyea 👋
-I'm **Frontend (Website) Engineer**.
+<div>
 
-## Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23EC5990.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/sm1rkyea) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23007ACC.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smirkyea-dev-7693b439b/) [![email](https://img.shields.io/badge/eMAIL-%23CB3837.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@smirkyea.eu)
+<!-- &nbsp;'s are here to replace align="right" on each img, which somehow made GitHub add an extra background before each icon -->
 
-## Main stack
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) ![TanStack Start](https://img.shields.io/badge/TanStack%20Start-FF4154?style=for-the-badge&logo=react&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23FF7A00.svg?style=for-the-badge&logo=rust&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Fiber](https://img.shields.io/badge/fiber-%2300A6E0.svg?style=for-the-badge&logo=go&logoColor=white) ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<h1 align="left">
+  Hi, I'm Smirkyea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/sm1rkyea"><img background="transparent" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="24" height="24" /></a>
+  <a href="https://discord.com/users/997790170650779648"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="24" height="24" /></a>
+  <a href="mailto:contact@smirkyea.eu"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="24" height="24" /></a>
+</h1>
 
-## Experience
-```[July 2025 - October 2025]``` Website Developer on the biggest Minecraft server in Czechia, Survival-Games.cz.
+<h3 align="left">Frontend Developer from Czechia</h3>
+
+<p align="left">
+  I build fast, clean and modern web interfaces.
+  Currently expanding my skills into backend development.
+</p>
+<br/>
+<h3 align="left">Tech Stack</h3>
+
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white">
+    <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" width="40" height="40" />
+  </picture>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react" alt="React" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nestjs" alt="NestJS" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript" alt="JavaScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mongodb" alt="MongoDB" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40" />
+</p>
+<br/>
+<h3 align="left">Experience</h3>
+
+<ul>
+  <li>
+    <b>Website Developer</b> at <a href="https://survival-games.cz">Survival-Games.cz</a><br />
+    <sub>July 2025 – October 2025</sub>
+  </li>
+</ul>
+
+</div>
